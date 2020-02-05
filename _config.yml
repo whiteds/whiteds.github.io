@@ -291,6 +291,8 @@ defaults:
       author_profile: true
       read_time: true
       comments: # true
-      share: true
+      share: true      
+      related: true
       
-related: trueremote_theme : mmistakes/minimal-mistakes
+#remote
+remote_theme : mmistakes/minimal-mistakes
