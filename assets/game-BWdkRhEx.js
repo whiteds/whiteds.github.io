@@ -1,0 +1,1 @@
+import"./lobby-DK9NN18H.js";import"./index-aDK3yQ8k.js";window.__SUPABASE__={url:"https://chbibdnqynilfuczbygg.supabase.co",anonKey:"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImNoYmliZG5xeW5pbGZ1Y3pieWdnIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTQ3MDc0OTQsImV4cCI6MjA3MDI4MzQ5NH0.VuwTKXiU1Yx4C_fQCIp5X20m8SupxBkCKhQzN7Vqe20"};
